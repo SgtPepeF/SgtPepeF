@@ -2,7 +2,7 @@
 
 ![image](https://github.com/SgtPepeF/SgtPepeF/blob/816ad22729dfc82761e3cf308c0a974d4c7bf014/files/Greenflake%20short.png)
 
-#### Python разработчик, в прошлом инженер и аналитик данных. Люблю вызовы и сложные задачи в работе. Математический и инженерный бэкграунд помогают мне искать оригинальные решения поставленных задач.
+Python-разработчик, в прошлом инженер и аналитик данных. Люблю вызовы и сложные задачи в работе. Математический и инженерный бэкграунд помогают мне искать оригинальные решения поставленных задач.
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,go,django,flask,postgres,docker,sqlite,nginx,git,postman,github,linux)](https://skillicons.dev)
