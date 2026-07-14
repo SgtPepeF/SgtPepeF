@@ -18,11 +18,13 @@
   <tr>
     <td valign="top" align="left">
       <b>Python</b><br>
-      Golang<br>
       С/С++<br>
+      Html/Css<br>
+      Golang<br>
     </td>
     <td valign="top" align="left">
       <b>Django</b>  <b>Django Rest</b><br>
+      Bootstrap<br>
       Flask<br>
       Telegram-bot-API<br>
     </td>
